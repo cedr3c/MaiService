@@ -1,0 +1,10 @@
+{
+	"name": "nodejs-online-compiler",
+	"version": "1.0.0",
+	"main": "index.js",
+	"license": "MIT",
+	"start": "node index.js",
+	"dependencies": {
+		"nodemailer": "^6.9.7"
+	}
+}
