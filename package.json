@@ -1,12 +1,12 @@
 {
   "name": "MailService",
-  "version": "6.9.7",
+  "version": "",
   "description": "",
   "main": "node.js",
   "scripts": {
     "start": "node node.js"
   },
   "dependencies": {
-    "nodemailer": "*"
+    "nodemailer": "6.9.7"
   }
 }
